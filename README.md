@@ -1,4 +1,4 @@
-# UnityStringCollider
+# Unity String Collider
 Unity C# String Utilities Colliding Strings with minimal Allocations
 
 
